@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fukbmp", "fukbmp\fukbmp.vcxproj", "{E23BC33E-05AB-4BFD-9A3C-B37FE51FDFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23BC33E-05AB-4BFD-9A3C-B37FE51FDFE4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E23BC33E-05AB-4BFD-9A3C-B37FE51FDFE4}.Debug|Win32.Build.0 = Debug|Win32
+		{E23BC33E-05AB-4BFD-9A3C-B37FE51FDFE4}.Release|Win32.ActiveCfg = Release|Win32
+		{E23BC33E-05AB-4BFD-9A3C-B37FE51FDFE4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
